@@ -39,5 +39,11 @@ public class evasquez6
 		System.out.println("double total = " + dtotal);
 		System.out.println("===========================");
 
+		/*Both c and java evaluate the same in this case as
+		 * they use the same precedence order from left to right
+		 * for the operands * / + and - as shown with the same outputs 
+		 * for both the int and double values.
+		 */
+
 	}
 }
